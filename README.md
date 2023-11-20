@@ -2,7 +2,8 @@
 - 🔭 I’m currently working as a software developer
 - 🌱 I’m currently improve my technical skills, english and other soft skills 
 - 💡 I embrace challenges and try to figure out the solutions to overcome that challenges
-  
+- 👨‍💻 I am good at logical thinking, DSA, OOP,...
+   
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tuan-minh-734850229) 
 
